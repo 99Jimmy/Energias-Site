@@ -9,4 +9,4 @@ O projeto fala sobre tipos de energias sustentáveis e sobre as vantagens e desv
 
 * html
 * css
-* python
+* javascript
